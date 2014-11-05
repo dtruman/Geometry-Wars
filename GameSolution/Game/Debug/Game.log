@@ -1,0 +1,49 @@
+﻿Build started 11/5/2014 1:31:57 PM.
+     1>Project "C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Game\Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\\Engine /IC:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\\Core\include /ZI /nologo /W4 /WX /Od /Oy- /D PROFILING_ON /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt arbitObject.cpp Bullet.cpp Color.cpp EnemyShip.cpp main.cpp Matrix2D.cpp Matrix3D.cpp ParticleEffect.cpp Profiler.cpp Rand.cpp SolarSystem.cpp Spaceship.cpp Timer.cpp Turret.cpp UpdateNDraw.cpp Vector3D.cpp Vectors2D.cpp Wall.cpp
+         Wall.cpp
+         Vectors2D.cpp
+         Vector3D.cpp
+         UpdateNDraw.cpp
+         Turret.cpp
+         Timer.cpp
+         Spaceship.cpp
+         SolarSystem.cpp
+         Rand.cpp
+         Profiler.cpp
+         ParticleEffect.cpp
+         Matrix3D.cpp
+         Matrix2D.cpp
+         main.cpp
+         EnemyShip.cpp
+         Color.cpp
+         Bullet.cpp
+         arbitObject.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\ /LIBPATH:C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\\Core\lib /LIBPATH:C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib Engine.lib Core.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\Game.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\Game.lib" /MACHINE:X86 Debug\arbitObject.obj
+         Debug\Bullet.obj
+         Debug\Color.obj
+         Debug\EnemyShip.obj
+         Debug\main.obj
+         Debug\Matrix2D.obj
+         Debug\Matrix3D.obj
+         Debug\ParticleEffect.obj
+         Debug\Profiler.obj
+         Debug\Rand.obj
+         Debug\SolarSystem.obj
+         Debug\Spaceship.obj
+         Debug\Timer.obj
+         Debug\Turret.obj
+         Debug\UpdateNDraw.obj
+         Debug\Vector3D.obj
+         Debug\Vectors2D.obj
+         Debug\Wall.obj
+            Creating library C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\Game.lib and object C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\Game.exp
+         Game.vcxproj -> C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Debug\Game.exe
+     1>Done Building Project "C:\Users\dtruman\Desktop\C++\GameSkeleton\GameSolution\Game\Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.15

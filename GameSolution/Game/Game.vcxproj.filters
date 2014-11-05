@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Spaceship.cpp" />
+    <ClCompile Include="Turret.cpp" />
+    <ClCompile Include="Wall.cpp" />
+    <ClCompile Include="SolarSystem.cpp" />
+    <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="arbitObject.cpp" />
+    <ClCompile Include="UpdateNDraw.cpp" />
+    <ClCompile Include="Color.cpp" />
+    <ClCompile Include="Matrix2D.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix3D.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Rand.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Vectors2D.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleEffect.cpp" />
+    <ClCompile Include="Timer.cpp" />
+    <ClCompile Include="Profiler.cpp">
+      <Filter>Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyShip.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Math">
+      <UniqueIdentifier>{c6ca3ca1-d1ed-4e66-ad5a-17efc6536612}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Debug">
+      <UniqueIdentifier>{7372485b-1480-4ca3-a4a1-462ef0ad744e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
